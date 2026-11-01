@@ -1,0 +1,17 @@
+# Alcance do levantamento de evidências de CT&I
+
+Transcrição da Seção D.5 do apêndice da monografia, extraída em 1 de novembro de 2026.
+
+D.5 Registro e alcance do levantamento documental
+
+O levantamento combinou buscas pelos 16 fármacos, com variantes de grafia e denominações em inglês, e por empresas, unidades e parceiros institucionais. Consultaram-se bases bibliográficas e de ensaios clínicos, repositórios, vitrines tecnológicas, registros de propriedade industrial e documentos de instituições públicas e empresas. O Quadro D.2 identifica as fontes de cada evidência, e o Quadro A.1 reúne os arquivos de reprodução.
+
+A triagem separou duplicações e menções incidentais. Para a carteira, a inclusão exigiu pertinência ao fármaco, vínculo territorial e informação suficiente sobre a atividade. Para as empresas, consideraram-se as funções das unidades e os objetos das relações institucionais. O vínculo mineiro foi reconhecido pela instituição executora, afiliação científica, titular de tecnologia, planta, serviço tecnológico ou centro de ensaio. Antecedentes e atualizações ordenaram as trajetórias.
+
+Cada evidência foi examinada pelo objeto, fármaco, participantes, funções, unidade, atividade e período. Distinguiram-se pesquisa clínica, avaliação de tecnologias, desenvolvimento farmacotécnico, capacidade analítica, pesquisa básica, transferência e produção. Revisões e relatos assistenciais foram avaliados pelo trabalho realizado. As fontes foram confrontadas segundo sua competência: atos e registros sanitários identificam operações autorizadas; publicações e relatórios descrevem pesquisas; contratos e planos registram compromissos e etapas previstas ou executadas.
+
+A interpretação distingue a estrutura declarada pela instituição da atividade descrita no documento. O enquadramento de um trabalho como P&D requer evidências de novidade, criatividade, incerteza, realização sistemática e possibilidade de transferência ou reprodução (OECD, 2015). Nas demais atividades, Oslo orienta a identificação da finalidade de desenvolver ou implementar uma inovação; o resultado exige diferença significativa em relação ao produto ou processo anterior e disponibilização aos usuários ou uso efetivo (OECD; Eurostat, 2018). Instalações, lotes-piloto, validação e cursos foram lidos pelo objeto e pela finalidade documentados. Nos contratos, distinguiram-se direitos de propriedade intelectual, fornecimento de conhecimentos técnicos e assistência. A atribuição territorial acompanha a unidade e o período identificados, separando anúncios, compromissos pactuados e operações executadas.
+
+A relação com a demanda pública foi examinada nos objetivos dos projetos, requisitos de produto, escala, prazos e compromissos de fornecimento. A classificação distingue conexão temática, compromisso de desenvolvimento, fornecimento contratado, transferência pactuada e operação executada. A função da SES-MG foi registrada conforme a atuação demonstrada na definição de prioridades, na programação das aquisições ou nos compromissos de compra.
+
+O material de reprodução reúne as evidências selecionadas, mas não conserva um registro integral das interfaces consultadas, combinações de termos, filtros, sequência de buscas e resultados descartados. Assim, o corpus permite conferir as evidências utilizadas e as decisões de interpretação, enquanto a repetição das buscas pode recuperar documentos adicionais ou versões diferentes. A ausência de vínculo nesse conjunto permanece uma ausência de demonstração documental.

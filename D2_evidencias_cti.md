@@ -1,0 +1,63 @@
+# Quadro D.2 – Documentos de apoio às evidências de CT&I das Seções 6.2 e D.2
+
+Transcrição do quadro da monografia, extraída em 1 de novembro de 2026.
+
+O Quadro D.2 associa as evidências da Seção 6.2, incluindo o Quadro 6.1, e da Seção D.2 aos documentos que as sustentam e a identificadores que permitem localizá-los. As referências completas constam da lista de Referências.
+
+| Código | Empresa ou fármaco | Evidência | Documento | Identificador |
+| --- | --- | --- | --- | --- |
+| E01 | Cimed | Instituto próprio de P&amp;D e complexos fabris em Pouso Alegre | Cimed (2026) | Página institucional |
+| E02 | Cimed | Área para produção de lotes-piloto na nova planta de Pouso Alegre | Sodré (2023) | Imprensa |
+| E03 | Cimed | Transferência de tecnologia entre plantas de Pouso Alegre aprovada pela Anvisa | Cimed (2022) | Relatório da administração, p. 5 |
+| E04 | Hipolabor | Desenvolvimento analítico e validação de processos em Sabará; parceria privada da SpiN-TEC, coordenada pelo CTVacinas/UFMG com a FUNED | Morais (2025) | Imprensa |
+| E05 | União Química | Laboratório de P&amp;D biotecnológico na unidade Bthek, em Brasília (DF) | União […] (2021) | Imprensa |
+| E06 | Biomm | Acordo com a Gan &amp; Lee (2014) e fábrica de Nova Lima (2017) | Biomm (2020) | Página institucional |
+| E07 | Biomm | Proposta de PDP da glargina com a FUNED e a Gan &amp; Lee, aprovada em 2018 e depois não aprovada | Brasil (2018b, 2018c, 2021) | Portarias nº 731/2018 e nº 3.828/2018; lista de propostas não aprovadas |
+| E08 | Biomm | PDP da glargina com Bio-Manguinhos e Gan &amp; Lee e contrato de fornecimento ao Ministério da Saúde | Brasil (2025); Biomm (2025) | Portaria GM/MS nº 6.646/2025; extrato no PNCP |
+| E09 | Cristália | Unidades em Pouso Alegre e Montes Claros; Centro de PD&amp;I em Itapira (SP) | Cristália ([s. d.]); Agência FAPESP (2009) | Página institucional; imprensa |
+| E10 | Cristália | Unidade de genética aplicada em Campinas (SP), com consultoria de pesquisadora da UFMG | Laboratório […] (2026) | Imprensa |
+| E11 | Biolab Sanus | Centro de P&amp;D em Itapecerica da Serra (SP) e extensão no Canadá | Biolab Farmacêutica (2015) | Comunicado da empresa |
+| E12 | Biolab Sanus | Licença de patente da UFMG para anti-hipertensivo | UFMG (2010) | Notícia institucional |
+| E13 | Eurofarma | Centro de pesquisa Eurolab, em Itapevi (SP) | Eurofarma ([s. d.], 2026) | Página institucional e Formulário de Referência |
+| E14 | Eurofarma | Início das operações em 2025; 12 linhas de embalagem em set. 2026; expansão gradual prevista | Eurofarma (2025); Brasil (2026c) | Comunicado empresarial e notícia do Ministério da Saúde |
+| E15 | Eurofarma | Vínculo com grupo da UNIFAL-MG declarado ao DGP em 2014 | CNPq (2026) | Censo 2014 do DGP |
+| E16 | Novo Nordisk | Fábrica de Montes Claros (2007); sede administrativa em São Paulo, sem centro de P&amp;D no país | Novo Nordisk (2026) | Página institucional |
+| E17 | Novo Nordisk | Ampliação da fábrica de enzimas em Montes Claros | Novo Nordisk (2024) | Comunicado da empresa |
+| E18 | Novo Nordisk | Contratos de assistência técnica com cedentes no exterior | INPI (2026a) | Contratos averbados no INPI |
+| E19 | Novo Nordisk | Pós-graduação em Boas Práticas de Fabricação com a Unimontes | Unimontes (2024) | Notícia institucional |
+| E20 | Laboratório Globo | Fabricação em São José da Lapa | Anvisa (2026a) | AFE e CBPF (Apêndice B) |
+| E21 | Atorvastatina | Reposicionamento antifúngico: emulgel e tinea pedis (UFSJ e UFJF) | Oliveira Neto et al. (2021, 2025) | DOI 10.1093/mmy/myaa071; DOI 10.1038/s41429-025-00848-1 |
+| E22 | Atorvastatina | Pesquisas pré-clínicas em colite (UFTM) e mucosite (UFMG) | Basso et al. (2021); Vital et al. (2025) | DOI 10.3389/fimmu.2021.618365; DOI 10.1080/1120009X.2024.2345027 |
+| E23 | Atorvastatina | Portfólio e P&amp;D da Cimed em Pouso Alegre | Cimed (2026) | Página institucional |
+| E24 | Azatioprina | Projeto PPSUS-MG sobre farmacogenética e monitorização em doença de Crohn (UFJF) | FAPEMIG (2017) | Processo APQ-03823-17 |
+| E25 | Azatioprina | Estudo clínico em doença de Crohn (Hospital Universitário da UFJF) | Vidigal et al. (2014) | DOI 10.12659/MSM.890975 |
+| E26 | Azatioprina | Estudo analítico de compatibilidade fármaco-excipiente (UFMG) | Silva (2017) | Dissertação de mestrado |
+| E27 | Calcitriol | Pesquisa pré-clínica sobre coronavírus (UFMG) | Campolina-Silva et al. (2023) | DOI 10.3390/v15122434 |
+| E28 | Ciclosporina | Dispositivo intravítreo de liberação desenvolvido por UFMG e FUNED | Almeida et al. (2015) | DOI 10.1007/s10633-015-9520-z |
+| E29 | Gabapentina | Matrizes lamelares para liberação prolongada (UFV) | Soares Júnior (2021) | Dissertação de mestrado |
+| E30 | Hidroxicloroquina | Ensaio clínico multicêntrico com centros mineiros | Reis et al. (2021) | DOI 10.1001/jamanetworkopen.2021.6468; NCT04403100 |
+| E31 | Hidroxicloroquina | Proposta da FUNED de ensaio multicêntrico não aprovada pela FAPEMIG | FAPEMIG (2021) | Processo APQ-00632-20 |
+| E32 | Hidroxicloroquina | Fibras de liberação controlada (UFMG), método analítico (UNIFAL-MG) e eletrodos de detecção (UFU) | Zambuzi et al. (2024); Toti, Bonfilio e Araújo (2025); Carvalho et al. (2022) | DOI 10.1016/j.colsurfa.2024.134736; DOI 10.1556/1326.2023.01193; DOI 10.1016/j.talanta.2022.123727 |
+| E33 | Insulina glargina | Avaliação de tecnologia com coorte e protocolo da SES-MG (UFMG) | NESCON (2014); Souza et al. (2014) | Relatório, p. 59; DOI 10.1007/s40258-013-0073-6 |
+| E34 | Insulina glargina | Proposta de PDP FUNED–Biomm–Gan &amp; Lee aprovada em 2018 e depois não aprovada | Brasil (2018b, 2018c, 2021) | Portarias nº 731/2018 e nº 3.828/2018; lista de propostas não aprovadas |
+| E35 | Insulina glargina | Biomm: formulação e envase autorizados; envase, controle de qualidade e embalagem documentados | Anvisa (2024); Biomm (2026a, 2026b) | Autorização pós-registro; demonstrações financeiras; bula profissional |
+| E36 | Insulina glargina | Crédito de Finep, BNDES e BDMG e participação de BNDES e BDMG na planta de Nova Lima | Verdélio (2024) | Imprensa |
+| E37 | Insulina glargina | PDP Bio-Manguinhos–Biomm–Gan &amp; Lee e contrato com o Ministério da Saúde em 2025 | Brasil (2025); Biomm (2025) | Portaria GM/MS nº 6.646/2025; extrato no PNCP |
+| E38 | Lamotrigina | Monitorização terapêutica em epilepsia (UFSJ) | Baldoni et al. (2016, 2018a, 2018b) | DOI 10.1111/1440-1681.12584; DOI 10.1590/s2175-97902018000200246; DOI 10.11606/issn.2176-7262.v51i3p177-188 |
+| E39 | Mesalazina | Conjugado polimérico, liberação e biodistribuição (UFMG) | Cesar et al. (2018) | DOI 10.1016/j.ejps.2017.09.037 |
+| E40 | Mesalazina | Avaliação pré-clínica em proctite actínica (UFMG e CDTN) | Nunes et al. (2021) | DOI 10.1590/ACB360805 |
+| E41 | Mesalazina | Pedido de patente e oferta tecnológica pela CTIT/UFMG | Faraco et al. (2015); UFMG (2024) | BR 10 2015 018211-2 |
+| E42 | Raloxifeno | Estudo pré-clínico (UFMG) e metanálise com participação da UFU | Lamas et al. (2017); Shi et al. (2021) | DOI 10.1016/j.pharep.2017.03.004; DOI 10.1016/j.clinthera.2021.07.017 |
+| E43 | Sulfassalazina | Complexos de rutênio com sulfassalazina (UFMG) | Melo et al. (2017) | DOI 10.1016/j.ica.2017.08.037 |
+| E44 | Topiramato | Monitorização plasmática em epilepsia farmacorresistente (UFSJ) | Marques et al. (2018) | DOI 10.1111/1440-1681.12923 |
+| E45 | Eurofarma | Visita técnica de estudantes e docentes da Unimontes; interação educacional | Unimontes (2026) | Página atualizada em 2 jul. 2026; data original da visita não precisada |
+| E46 | Eurofarma | Encontro com a UFMG em 20 mar. 2025: propostas de serviços e formação | UFMG (2025) | Notícia institucional; projeto específico de P&amp;D não identificado |
+| E47 | Eurofarma | Parceria no QualiFarma para qualificação profissional em Montes Claros | FIEMG (2026) | 4ª edição; edital lançado em set. 2026 |
+| E48 | Eurofarma | Cooperação com a UFMG em cisplatina lipossomal (2009); licenciamento indicado como extinto | UFMG (2009, 2022) | PI 0705519-6; licença de 8 maio 2008; sem vínculo demonstrado com a planta de Montes Claros |
+| E49 | Eurofarma | Previsão de P&amp;D em Montes Claros em 2018; centro brasileiro identificado em Itapevi em 2026 | ALMG (2018); Eurofarma (2026) | Anúncio de investimento e Formulário de Referência; P&amp;D local não confirmado |
+
+Fonte: elaboração própria.
+
+Nota: Cada documento consta das Referências. O identificador permite localizá-lo: DOI, registro de ensaio clínico, número de pedido de patente ou de processo; nos documentos institucionais e de imprensa, o endereço eletrônico está na referência. A presença de um documento não demonstra, isoladamente, vínculo com a programação de compras da SES-MG.
+
+Os critérios e os limites do levantamento estão em [Alcance das evidências de CT&I](alcance_cti.md). Os documentos citados podem ser localizados na [lista de referências](referencias.md).

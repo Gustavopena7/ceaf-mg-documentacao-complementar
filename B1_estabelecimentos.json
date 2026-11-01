@@ -1,0 +1,214 @@
+{
+  "quadro": "Quadro B.1 – CNPJs com AFE que inclui atividade de fabricação, função efetiva, certificação sanitária e relação com o CEAF e o elo de insumos, 2026",
+  "data_extracao": "2026-11-01",
+  "colunas": [
+    "Estabelecimento / CNPJ / município",
+    "Função e habilitação sanitária",
+    "Relação com CEAF, IFA e fontes"
+  ],
+  "linhas": [
+    [
+      "Magaraz\n26.351.130/0001-62\nAraguari",
+      "Produção não farmacêutica\nNão fabrica medicamento acabado — produtos naturais/suplementos. Condimentos, derivados de soja, óleos e suplementos\nAFE: Ativa – fabricação (cadastro AFE)\nCBPF: Ausente",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: C – CNPJ/diretório"
+    ],
+    [
+      "Belfar\n18.324.343/0001-77\nBelo Horizonte",
+      "Fabricação de medicamento acabado\nFabricação. Sólidos e semissólidos; MIP, genéricos e tarjados\nAFE: Ativa – fabricação\nCBPF: Válido (BH; há também CBPF Belfar em Matozinhos, fora do corte AFE-37)",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: B – institucional/ setorial"
+    ],
+    [
+      "Easelabs\n17.299.140/0001-05\nBelo Horizonte",
+      "Fabricação de medicamento acabado\nFabricação (fitoterápicos/cannabis). CBD isolado; extratos de cannabis\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Fora do elenco CEAF analisado\nIFA/insumo: Não identificado\nLastro: A/B – Anvisa + institucional/setorial"
+    ],
+    [
+      "FUNED\n17.503.475/0001-01\nBelo Horizonte",
+      "Fabricação de medicamento acabado\nLaboratório público — fabricação. Soros, vacinas, sólidos e antivirais\nAFE: Ativa – fabricação\nCBPF: Válido para medicamentos; há petição de IFA biológico com validade 2028",
+      "CEAF: Não identificada no universo estadual; entecavir/tenofovir ligados a circuitos federais\nIFA/insumo: sim — ativos biológicos próprios\nLastro: A – Anvisa"
+    ],
+    [
+      "Gallia\n12.022.755/0001-76\nBelo Horizonte",
+      "Fabricação de medicamento acabado\nFabricação. não determinado\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: A/C – Anvisa + CNPJ/diretório"
+    ],
+    [
+      "Hipolabor — unidade BH\n19.570.720/0003-82\nBelo Horizonte",
+      "Logística / administrativo\nArmazenagem/administrativo — função local não fabril\nAFE: Ativa – fabricação (cadastro AFE)\nCBPF: Ausente na unidade de BH",
+      "CEAF: Não identificada para a unidade local\nIFA/insumo: Não identificado\nLastro: A/B – Anvisa + institucional/ setorial"
+    ],
+    [
+      "Pharmascience\n25.773.037/0001-83\nBetim",
+      "Fabricação de medicamento acabado\nFabricação própria + terceirização. Alopáticos acabados\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: B – institucional/ setorial"
+    ],
+    [
+      "Bravir Industrial\n18.688.481/0001-35\nContagem",
+      "Fabricação de medicamento acabado\nAtividade fabril heterogênea — medicamento/cosmético. não determinado\nAFE: Ativa – fabricação\nCBPF: Ausente",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: C – CNPJ/diretório"
+    ],
+    [
+      "Osório de Moraes\n19.791.813/0001-75\nContagem",
+      "Fabricação de medicamento acabado\nFabricação. Sólidos orais; similares, genéricos e hospitalar\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: B – institucional/ setorial"
+    ],
+    [
+      "Farmax\n21.759.758/0001-88\nDivinópolis",
+      "Fabricação de medicamento acabado\nFabricação — forte peso de cosméticos e MIP. Líquidos, semissólidos, soro fisiológico e saneantes\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: B – institucional/ setorial"
+    ],
+    [
+      "Deleiev\n05.341.648/0001-45\nItapeva",
+      "Fabricação de medicamento acabado\nFabricação declarada. Alopáticos; parenterais e água para hemodiálise em atividades secundárias\nAFE: Ativa – fabricação\nCBPF: Ausente",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: C – CNPJ/diretório"
+    ],
+    [
+      "Arboreto\n41.921.149/0001-90\nJuiz de Fora",
+      "Dispositivo / correlato\nFabricação de correlato/solução fisiológica. Solução fisiológica 100/250/500 mL\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: A/B – Anvisa + institucional/setorial"
+    ],
+    [
+      "Medquímica – un. 0001-20\n17.875.154/0001-20\nJuiz de Fora",
+      "Fabricação de medicamento acabado\nFabricação. Sólidos e líquidos; MIP, genéricos e hospitalar\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Lamotrigina do registro 109170147 fabricada pela Unichem, na Índia; correspondência mineira não identificada nesse produto. Demais apresentações dependem de atribuição específica à unidade.\nIFA/insumo: Não identificado\nLastro: B – institucional/ setorial"
+    ],
+    [
+      "Medquímica – un. 0003-91\n17.875.154/0003-91\nJuiz de Fora",
+      "Fabricação de medicamento acabado\nFabricação. Sólidos e líquidos; MIP, genéricos e hospitalar\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Lamotrigina do registro 109170147 fabricada pela Unichem, na Índia; correspondência mineira não identificada nesse produto. Demais apresentações dependem de atribuição específica à unidade.\nIFA/insumo: Não identificado\nLastro: B – institucional/ setorial"
+    ],
+    [
+      "Melpoejo\n21.549.522/0001-17\nJuiz de Fora",
+      "Fabricação de medicamento acabado\nFabricação (fitoterápicos). Funchicórea; xarope de guaco\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: A/B – Anvisa + institucional/setorial"
+    ],
+    [
+      "Nativita\n65.271.900/0001-19\nJuiz de Fora",
+      "Fabricação de medicamento acabado\nFabricação (alopáticos + fitoterápicos). não determinado\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: C – CNPJ/diretório"
+    ],
+    [
+      "Pharlab\n02.501.297/0001-02\nLagoa da Prata",
+      "Fabricação de medicamento acabado\nFabricação. Sólidos, semissólidos, injetáveis e líquidos orais\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Gabapentina do registro 141070615 fabricada pela Aurobindo, na Índia; a titularidade mineira não indica fabricação local. Outras apresentações têm classificação própria no Capítulo 7.\nIFA/insumo: Não identificado\nLastro: B – institucional/ setorial"
+    ],
+    [
+      "Cristália — Un. IX\n44.734.671/0027-90\nMontes Claros",
+      "Fabricação de medicamento acabado\nFabricação. Sólidos orais\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Confirmada – risperidona 2 mg; etapa de embalagem em Montes Claros documentada na Anvisa. Classificação P2; a rota atual não comprova sua utilização nos anos das compras.\nIFA/insumo: não — IFA próprio do grupo em Itapira/SP\nLastro: A/B – Anvisa + institucional/setorial (Cristália, [s. d.])"
+    ],
+    [
+      "Eurofarma\n61.190.096/0017-50\nMontes Claros",
+      "Etapa produtiva: embalagem\nEmbalagem iniciada em 2025; 12 linhas em set. 2026. Fabricação de medicamentos prevista em expansão gradual.\nAFE: Ativa – fabricação\nCBPF: Ausente no corte informado de 31/07/2026; reconferir",
+      "CEAF: Identificação empresarial no Cap. 7 (risperidona); atribuição a esta unidade e vigência histórica pendentes.\nIFA/insumo: Não identificado\nLastro: B – institucional (Eurofarma, 2025; Brasil, 2026c)"
+    ],
+    [
+      "Hipolabor\n19.570.720/0007-06\nMontes Claros",
+      "Fabricação de medicamento acabado\nFabricação. Injetáveis hospitalares e sólidos\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Pendente de verificação – perfil compatível com medicamentos hospitalares\nIFA/insumo: Não identificado\nLastro: B – institucional/ setorial (Morais, 2025)"
+    ],
+    [
+      "Novo Nordisk\n16.921.603/0001-66\nMontes Claros",
+      "Fabricação de medicamento acabado\nFabricação + formulação, envase e embalagem. Parenterais de pequeno volume; insulinas\nAFE: Ativa – fabricação\nCBPF: Válido — 7 petições por forma; vigente 70503",
+      "CEAF: Depende da apresentação – NPH/regular = CBAF; análogas rápida/prolongada = CEAF\nIFA/insumo: sim — enteroquinase e ALP; semaglutida é prospectiva a partir de 2028\nLastro: A – Anvisa"
+    ],
+    [
+      "Biomm\n04.752.991/0001-10\nNova Lima",
+      "Etapa produtiva parcial\nFormulação e envase autorizados (Anvisa, 2024); envase e controle de qualidade descritos (Biomm, 2026a). Glargina em carpule/refil e caneta\nAFE: Ativa – fabricação\nCBPF: Válido — produtos estéreis; histórico com embalagem secundária e posterior ampliação de escopo",
+      "CEAF: P2 – glargina; acondicionamento atribuído aos itens, com identificação no nível do produto\nIFA/insumo: não — IFA atualmente externo; nacionalização planejada fora de MG\nLastro: A – Anvisa"
+    ],
+    [
+      "ACG do Brasil\n09.625.967/0002-14\nPouso Alegre",
+      "Componente farmacotécnico\nNão fabrica medicamento acabado — cápsulas vazias, embalagens e máquinas. Cápsulas de gelatina dura e vegetal\nAFE: Ativa – fabricação (cadastro AFE)\nCBPF: Ausente para medicamentos",
+      "CEAF: Não identificada\nIFA/insumo: insumo não ativo — cápsula vazia\nLastro: A – Anvisa"
+    ],
+    [
+      "Atina\n05.678.981/0001-44\nPouso Alegre",
+      "IFA / insumo\nNão fabrica medicamento acabado — ativos naturais/cosméticos. Alfa-bisabolol, óleos e extratos\nAFE: Ativa – fabricação (cadastro AFE)\nCBPF: Ausente para medicamentos",
+      "CEAF: Não identificada\nIFA/insumo: ativo cosmético/natural; não IFA da cesta\nLastro: A/B – Anvisa + institucional/setorial"
+    ],
+    [
+      "Biolab Sanus\n49.475.833/0017-65 (AFE); outros CNPJs no complexo: /0009-55; Biolab Farma Genéricos 33.150.764/0006-27\nPouso Alegre",
+      "Fabricação de medicamento acabado\nFabricação; coexistência de CNPJ atacadista no complexo. Sólidos orais; genéricos\nAFE: Ativa – fabricação\nCBPF: Válido (Biolab Sanus)",
+      "CEAF: Confirmada – gabapentina das apresentações dos registros 109740282 e 109740291, com embalagem primária e secundária no CNPJ 49.475.833/0017-65. Classificação P2.\nIFA/insumo: Não identificado\nLastro: A/B – Anvisa (consulta de 30/10/2026) + institucional/setorial"
+    ],
+    [
+      "Cimed – un. 0002-98\n02.814.497/0002-98\nPouso Alegre",
+      "Fabricação de medicamento acabado\nFabricação. Sólidos orais, líquidos, cremes e outras formas\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Confirmada – atorvastatina; processo produtivo completo em Pouso Alegre, com lastro em registro/bula. Classificação final: P1.\nIFA/insumo: Não identificado\nLastro: A – Anvisa"
+    ],
+    [
+      "Cimed – un. 0008-83\n02.814.497/0008-83\nPouso Alegre",
+      "Fabricação de medicamento acabado\nFabricação. Sólidos orais, líquidos, cremes e outras formas\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Confirmada – atorvastatina; processo produtivo completo em Pouso Alegre, com lastro em registro/bula. Classificação final: P1.\nIFA/insumo: Não identificado\nLastro: A – Anvisa"
+    ],
+    [
+      "Cristália — Un. VIII\n44.734.671/0025-29\nPouso Alegre",
+      "Fabricação de medicamento acabado\nFabricação. Parenterais de grande volume e hospitalares\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Confirmada – embalagem secundária de soluções injetáveis de morfina (registro 102980097) em Pouso Alegre; classificação P2. Formas orais não são atribuídas à unidade.\nIFA/insumo: não — IFA próprio do grupo em Itapira/SP\nLastro: A/B – Anvisa + institucional/setorial (Cristália, [s. d.])"
+    ],
+    [
+      "União Química\n60.665.981/0005-41\nPouso Alegre",
+      "Fabricação de medicamento acabado\nFabricação. Injetáveis, colírios, hormônios e antibióticos\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Confirmada – acetato de ciproterona; processo produtivo completo em Pouso Alegre, com lastro em documentação sanitária da Anvisa. Classificação final: P1.\nIFA/insumo: não confirmado na unidade mineira\nLastro: A/B – Anvisa + institucional/setorial (Agência Minas, 2023)"
+    ],
+    [
+      "Hypofarma\n17.174.657/0001-78\nRibeirão das Neves",
+      "Fabricação de medicamento acabado\nFabricação. Injetáveis e soluções parenterais de grande volume\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: B – institucional/setorial"
+    ],
+    [
+      "Hipolabor\n19.570.720/0001-10\nSabará",
+      "Fabricação de medicamento acabado\nFabricação. Injetáveis genéricos e sólidos\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Diluente da somatropina identificado em Sabará (P3); conciliação por CNPJ e período pendente.\nIFA/insumo: Não identificado\nLastro: A/B – Anvisa + institucional/setorial (Morais, 2025)"
+    ],
+    [
+      "JHS\n71.029.631/0001-81\nSabará",
+      "Dispositivo / correlato\nNão fabrica medicamento convencional — biomateriais/dispositivos. Enxertos, hidroxiapatita, vidro bioativo e dispositivos\nAFE: Ativa – fabricação (cadastro AFE)\nCBPF: Ausente para medicamentos",
+      "CEAF: Não identificada\nIFA/insumo: Não identificado\nLastro: A – Anvisa"
+    ],
+    [
+      "Laboratório Globo\n17.115.437/0001-73\nSão José da Lapa",
+      "Fabricação de medicamento acabado\nFabricação. Sólidos, semissólidos e xaropes\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Confirmada – propionato de clobetasol; processo produtivo completo em São José da Lapa, com lastro em documentação sanitária da Anvisa. Classificação final: P1.\nIFA/insumo: Não identificado\nLastro: A – Anvisa"
+    ],
+    [
+      "Eurofarma — Varginha\n61.190.096/0016-79\nVarginha",
+      "Logística / administrativo\nCentro de distribuição — função local não fabril\nAFE: Ativa – fabricação (cadastro AFE)\nCBPF: Ausente",
+      "CEAF: Não identificada para a unidade local\nIFA/insumo: Não identificado\nLastro: A/B – Anvisa + institucional/setorial"
+    ],
+    [
+      "Libbs — Varginha\n61.230.314/0009-22\nVarginha",
+      "Logística / administrativo\nCentro logístico — função local não fabril; fabricação do grupo em SP\nAFE: Ativa – fabricação (cadastro AFE)\nCBPF: Ausente",
+      "CEAF: Fornecedor do CEAF; fabricação do portfólio fora de MG\nIFA/insumo: Não identificado\nLastro: A/B – Anvisa + institucional/setorial"
+    ],
+    [
+      "Balder\n08.100.015/0001-33\nVespasiano",
+      "Fabricação de medicamento acabado\nFabricação por terceirização (toll). Hormonais e medicamentos acabados\nAFE: Ativa – fabricação\nCBPF: Válido",
+      "CEAF: Pendente de verificação\nIFA/insumo: Não identificado\nLastro: B – institucional/setorial"
+    ],
+    [
+      "Semeya\n70.987.482/0001-09\nVespasiano",
+      "IFA / insumo\nNão fabrica medicamento acabado — insumos botânicos. Extratos vegetais e insumos de cannabis\nAFE: Ativa – fabricação (cadastro AFE)\nCBPF: Ausente para medicamentos",
+      "CEAF: Não identificada\nIFA/insumo: insumo vegetal; não IFA sintético da cesta\nLastro: A/B – Anvisa + institucional/setorial"
+    ]
+  ],
+  "notas": [
+    "Fonte: elaboração própria com base em dados da Anvisa, (2026a).",
+    "Nota: O universo reúne 37 CNPJs com AFE que inclui atividade de fabricação, distribuídos em 16 municípios e apresentados individualmente na matriz. A AFE registra a habilitação sanitária para fabricar, enquanto o CBPF documenta condições certificadas de determinada unidade ou linha. A matriz complementa essas informações com a função efetivamente exercida por cada estabelecimento. Por isso, unidades logísticas, de insumos, componentes, dispositivos e produtos naturais permanecem no universo regulatório, classificadas segundo a função identificada. A confirmação de fabricação corrente de uma apresentação do CEAF depende de evidência específica de produto e apresentação.Estados de verificação: “Confirmada” indica lastro documental específico; “Não identificada” registra o resultado da busca nos documentos examinados; “Pendente” indica verificação adicional no nível do CNPJ, produto ou apresentação; “Fora do elenco” identifica itens externos ao universo CEAF analisado."
+  ],
+  "introducao": [
+    "Legenda do lastro documental: A = registro ou CBPF da Anvisa; B = fonte institucional ou imprensa setorial com convergência; C = cadastro CNPJ/diretório. Combinações A/B e A/C indicam fontes complementares para atributos distintos da mesma unidade. O quadro reúne consultas de 2026 e registros de CBPF de medicamentos do arquivo de 08/09/2025. Nos casos baseados nesse arquivo, “Válido” reproduz a classificação nele registrada e não comprova vigência em 2026; consultas posteriores são indicadas individualmente. A relação com o CEAF é verificada por CNPJ e apresentação, com vigência histórica própria. “Pendente” identifica as atribuições ainda em verificação.",
+    "Revisão da classificação funcional: os casos de atorvastatina/Cimed em Pouso Alegre, propionato de clobetasol/Laboratório Globo em São José da Lapa e acetato de ciproterona/União Química em Pouso Alegre, anteriormente mantidos como etapa não declarada, foram reavaliados na documentação sanitária e classificados como processo produtivo completo em Minas Gerais. A classificação final dessas ocorrências é P1 e substitui as marcações anteriores."
+  ],
+  "observacoes": [
+    "Fonte: elaboração própria com base em dados da Anvisa, (2026a).",
+    "Nota: O universo reúne 37 CNPJs com AFE que inclui atividade de fabricação, distribuídos em 16 municípios e apresentados individualmente na matriz. A AFE registra a habilitação sanitária para fabricar, enquanto o CBPF documenta condições certificadas de determinada unidade ou linha. A matriz complementa essas informações com a função efetivamente exercida por cada estabelecimento. Por isso, unidades logísticas, de insumos, componentes, dispositivos e produtos naturais permanecem no universo regulatório, classificadas segundo a função identificada. A confirmação de fabricação corrente de uma apresentação do CEAF depende de evidência específica de produto e apresentação.Estados de verificação: “Confirmada” indica lastro documental específico; “Não identificada” registra o resultado da busca nos documentos examinados; “Pendente” indica verificação adicional no nível do CNPJ, produto ou apresentação; “Fora do elenco” identifica itens externos ao universo CEAF analisado.",
+    "Observações de conciliação e pendências",
+    "1. Unidade de contagem. A matriz apresenta individualmente os 37 CNPJs que compõem o corte regulatório, distribuídos em 16 municípios. Essa organização mantém correspondência direta entre a unidade de contagem da AFE e as linhas do apêndice.",
+    "2. Validação funcional. A verificação nominal identificou unidades cuja função efetiva difere daquela sugerida pelo cadastro de fabricação, como Hipolabor-BH, Eurofarma-Varginha e Libbs-Varginha, além de estabelecimentos voltados a cápsulas, insumos botânicos, produtos naturais e dispositivos. Esses casos mostram a utilidade de combinar AFE, CBPF e evidências sobre a função efetivamente exercida pela unidade.",
+    "3. Universos da AFE e do CBPF. O arquivo de CBPF de medicamentos de 08/09/2025 reúne 30 estabelecimentos mineiros, correspondentes a 26 raízes de CNPJ, após a exclusão de 19 unidades de gases medicinais. Vinte e cinco também integram o corte dos 37 CNPJs com AFE de fabricação. Os cinco externos a esse corte são Vasconcelos e CNEN, em Belo Horizonte, 1Farma, em Pouso Alegre, Belfar, em Matozinhos, e Cifarma, em Santa Luzia. As diferenças devem ser interpretadas conforme os universos, as chaves e as datas de cada base. Quatorze certificados do arquivo apresentavam vencimento anterior a 31/07/2026; esse arquivo não permite verificar renovações posteriores. As consultas individuais de 2026 são identificadas separadamente, inclusive as certificações de IFA.",
+    "4. Clobetasol. A verificação documental das apresentações adquiridas de propionato de clobetasol confirmou processo produtivo completo no Laboratório Globo, em São José da Lapa. A classificação final dessas ocorrências é P1 e substitui a marcação anterior de etapa não declarada.",
+    "5. Insulinas. A análise distingue insulina humana NPH e regular, vinculadas ao CBAF, das análogas de ação rápida e prolongada relacionadas ao CEAF em indicações específicas. Para Novo Nordisk e Biomm, a função industrial mineira é atribuída segundo a rota sanitária de cada apresentação."
+  ]
+}
