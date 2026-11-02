@@ -1,6 +1,6 @@
 # Referências da monografia
 
-Lista transcrita da monografia em 1 de novembro de 2026. Inclui também obras utilizadas em outras seções do trabalho. Os endereços e as datas de acesso foram preservados conforme o documento de origem.
+Lista extraída da monografia em 1 de novembro de 2026 e complementada em 2 de novembro de 2026 (v1.0.1). Inclui também obras utilizadas em outras seções do trabalho. Os endereços e as datas de acesso foram preservados conforme o documento de origem.
 
 AGÊNCIA FAPESP. Parcerias inovativas em saúde. São Paulo, 30 set. 2009. Disponível em: https://agencia.fapesp.br/parcerias-inovativas-em-saude/11140. Acesso em: 23 out. 2026.
 
@@ -24,9 +24,11 @@ AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Anvisa). Resolução da Diretoria C
 
 AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Anvisa). Resolução da Diretoria Colegiada – RDC nº 768, de 12 de dezembro de 2022. Estabelece as regras para a rotulagem de medicamentos. Diário Oficial da União: seção 1, Brasília, DF, n. 234, p. 166, 14 dez. 2022c.
 
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Anvisa). Resolução-RE nº 1.187, de 27 de março de 2025. Concede certificação de Boas Práticas de Fabricação de Medicamentos. Diário Oficial da União: seção 1, Brasília, DF, n. 61, p. 251, 31 mar. 2025a. Disponível em: https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=31%2F03%2F2025&jornal=515&pagina=251. Acesso em: 2 nov. 2026.
+
 AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Anvisa). Resolução-RE nº 778, de 27 de fevereiro de 2026. Renova a certificação de boas práticas de fabricação de insumos farmacêuticos ativos das empresas constantes do anexo. Diário Oficial da União: seção 1, Brasília, DF, n. 41, p. 66, 3 mar. 2026b. Republicação. Disponível em: https://legismap.com.br/images/phocadownload/2026/03032026_anvisa.pdf. Acesso em: 1 nov. 2026.
 
-AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Anvisa). Voto do Circuito Deliberativo nº 855/2025: insulinas humanas da FUNED. Brasília, DF: Anvisa, 2025. Disponível em: https://www.gov.br/anvisa/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria/votos-dos-circuitos-deliberativos-1/2025/cd-0855-2025-voto.pdf/@@display-file/file. Acesso em: 5 out. 2026.
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Anvisa). Voto do Circuito Deliberativo nº 855/2025: insulinas humanas da FUNED. Brasília, DF: Anvisa, 2025b. Disponível em: https://www.gov.br/anvisa/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria/votos-dos-circuitos-deliberativos-1/2025/cd-0855-2025-voto.pdf/@@display-file/file. Acesso em: 5 out. 2026.
 
 ALBAREDA, Alexandra; TORRES, Ricardo Lobato. Parcerias para o Desenvolvimento Produtivo no Brasil: evidências empíricas sobre capacidade produtiva (2011-2024). Cadernos de Saúde Pública, Rio de Janeiro, v. 42, e00023826, 2026. DOI: https://doi.org/10.1590/0102-311XPT023826. Disponível em: https://doi.org/10.1590/0102-311XPT023826. Acesso em: 30 out. 2026.
 
@@ -59,6 +61,8 @@ BENCHIMOL, Eric I. et al. The REporting of studies Conducted using Observational
 BERMUDEZ, Jorge Antonio Zepeda et al. Assistência Farmacêutica nos 30 anos do SUS na perspectiva da integralidade. Ciência & Saúde Coletiva, Rio de Janeiro, v. 23, n. 6, p. 1937-1949, jun. 2018. DOI: https://doi.org/10.1590/1413-81232018236.09022018. Disponível em: https://doi.org/10.1590/1413-81232018236.09022018. Acesso em: 30 out. 2026.
 
 BIOLAB FARMACÊUTICA. Biolab Farmacêutica to open research and development centre in the Greater Toronto Area. Toronto: Newswire, 27 ago. 2015. Disponível em: https://www.newswire.ca/news-releases/biolab-farmaceutica-to-open-research-and-development-centre-in-the-greater-toronto-area-523076331.html. Acesso em: 23 out. 2026.
+
+BIOLAB FARMACÊUTICA. Relatório de sustentabilidade 2024/2025. [S. l.]: Biolab Farmacêutica, 2025. Disponível em: https://www.biolabfarma.com.br/RelatoriodeSustentabilidade20242025/Relatorio_de_sustentabilidade_Biolab_2024_2025.pdf. Acesso em: 2 nov. 2026.
 
 BIOMM S.A. Demonstrações financeiras intermediárias individuais e consolidadas em 31 de março de 2026. Nova Lima: Biomm, 2026a. Disponível em: https://api.mziq.com/mzfilemanager/v2/d/49baf2d5-181e-4692-bf91-ffeba3c6d725/6c5b55c0-ce8e-f4e0-94d0-ac24b7d676d1?origin=2. Acesso em: 14 out. 2026.
 
@@ -219,6 +223,8 @@ FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE MINAS GERAIS (FAPEMIG). Chamada P�
 FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE MINAS GERAIS (FAPEMIG). Projetos contratados. Belo Horizonte: FAPEMIG, 2026a. Base de dados atualizada em 15 jun. 2026. Disponível em: https://dados.mg.gov.br/dataset/projetos-contratados. Acesso em: 5 out. 2026.
 
 FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE MINAS GERAIS (FAPEMIG). Resultado final de julgamento da Chamada FAPEMIG nº 006/2025: Programa de Pesquisa para o SUS: gestão compartilhada em saúde, 8ª edição. Belo Horizonte: FAPEMIG, 27 abr. 2026b.
+
+FUNDAÇÃO ESTADUAL DO MEIO AMBIENTE (FEAM). Parecer nº 112/FEAM/URA SM-CAT/2024: renovação de licença de instalação da Biolab Sanus Farmacêutica Ltda. Minas Gerais: FEAM, 3 jun. 2024. Processo SEI nº 2090.01.0007239/2024-67. Disponível em: https://meioambiente.mg.gov.br/documents/38374/7323607/Item_08/c9ea5c32-ef0e-2e20-88b5-99603405c06c?t=1723588792883&version=1.0. Acesso em: 2 nov. 2026.
 
 FUNDAÇÃO EZEQUIEL DIAS (FUNED). Contrato nº 9437195/2024 de transferência de tecnologia com fornecimento de produto entre Biomm, Wockhardt, Gerais e FUNED, conforme especificação no projeto executivo da PDP: insulina humana NPH e regular. Belo Horizonte: FUNED, 2024a. Processo SEI nº 2260.01.0000227/2024-60. Assinado eletronicamente em 2 set. 2024.
 
