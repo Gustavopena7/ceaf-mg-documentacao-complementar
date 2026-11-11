@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite a versão identificada pelo commit utilizada na pesquisa."
+type: dataset
+title: "CEAF–MG: documentação complementar da monografia"
+authors:
+  - family-names: "Pena"
+    given-names: "Luiz Gustavo de Carvalho"
+version: 1.1.0
+date-released: 2026-11-11
+url: "https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar"
+abstract: "Matrizes documentais, catálogo de evidências e agregados para reprodução. Não inclui integralmente os arquivos administrativos individualizados."

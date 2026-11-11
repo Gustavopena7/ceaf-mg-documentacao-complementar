@@ -1,31 +1,17 @@
-# CEAF/SES-MG: documentação complementar da monografia
+# CEAF–MG: documentação complementar da monografia
 
-Este conjunto reúne documentação complementar da pesquisa de Luiz Gustavo de Carvalho Pena, desenvolvida no curso de Administração Pública da Fundação João Pinheiro, sobre a correspondência entre a demanda do CEAF/SES-MG e as capacidades farmacêuticas localizadas em Minas Gerais.
+Documentação da pesquisa de Luiz Gustavo de Carvalho Pena, Administração Pública, Fundação João Pinheiro.
 
-**Data da extração:** 1 de novembro de 2026.  
-**Versão documental:** 1.0.1 (atualizada em 2 de novembro de 2026).  
-**Escopo:** Quadros A.4, B.1 e D.2, acompanhados das notas de interpretação e das referências.
+**Versão atual: 1.1.0, de 11 de novembro de 2026.**
 
-## Conteúdo
+A [versão 1.1.0](versoes/1.1.0/LEIA_ME.md) contém a matriz resumida de 37 estabelecimentos (B.1), o catálogo de 49 evidências (D.2), as chamadas autor-data, a equivalência dos nomes dos arquivos e as contagens por unidade de compra e por classe industrial no recorte nacional/multiplanta. Esses agregados utilizam a base conciliada de 9.585 itens; o manifesto registra seu checksum.
 
-| Material | Conteúdo | Leitura | Dados estruturados |
-| --- | --- | --- | --- |
-| Quadro A.4 | 25 procedimentos, organizados em quatro grupos | [Procedimentos de reprodução](A4_procedimentos.md) | [JSON](A4_procedimentos.json) |
-| Quadro B.1 | 37 estabelecimentos do universo regulatório, com função e habilitação sanitária | [Matriz de estabelecimentos](B1_estabelecimentos.md) | [JSON](B1_estabelecimentos.json) |
-| Quadro D.2 | 49 evidências científicas, tecnológicas e institucionais, identificadas de E01 a E49 | [Catálogo de evidências](D2_evidencias_cti.md) | [JSON](D2_evidencias_cti.json) |
+O depósito público reúne documentação e agregados. A reprodução integral dos indicadores também depende de arquivos administrativos externos, cujo acesso segue as permissões do responsável. O [manifesto](versoes/1.1.0/manifesto.json) delimita essa cobertura; o [dicionário](versoes/1.1.0/dicionario_de_arquivos.csv) identifica os arquivos de apoio.
 
-A [atualização documental 1.0.1](ATUALIZACAO_1.0.1.md), as [notas sobre o alcance do levantamento de CT&I](alcance_cti.md) e a [lista de referências da monografia](referencias.md) complementam a leitura.
+Para citar, utilize o autor, o título, a versão 1.1.0 e o endereço da versão identificada pelo commit efetivamente consultado. O arquivo [CITATION.cff](CITATION.cff) fornece os metadados bibliográficos. Não foi atribuído DOI.
 
-## Como utilizar
+## Documentação anterior preservada
 
-Os arquivos Markdown permitem consultar os quadros diretamente no GitHub. Os arquivos JSON preservam os mesmos campos para leitura por programas. No Quadro A.4, as quatro linhas de agrupamento permanecem registradas no JSON, além dos 25 procedimentos.
+Os arquivos da raiz A4_procedimentos, B1_estabelecimentos, D2_evidencias_cti, alcance_cti e referencias correspondem à versão 1.0.1, de 2 de novembro de 2026. A versão completa permanece no [commit 73fc8c7](https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar/tree/73fc8c757be502a7ee831e38416d74fdfad1496d). As tabelas compactas incorporadas à monografia estão na pasta 1.1.0. As datas das consultas não equivalem à vigência das operações nos anos das compras.
 
-Foram preservados os textos, os identificadores e as remissões da monografia. As referências a capítulos, seções e outros apêndices devem ser lidas conforme a numeração do trabalho. As datas de extração deste pacote são distintas das datas de consulta e de vigência das fontes.
-
-O material permite conferir os procedimentos descritos e as evidências catalogadas. A reprodução dos resultados quantitativos também depende das planilhas de compras, das bases auxiliares e das memórias de cálculo indicadas na monografia, que não integram este pacote inicial. Na incorporação futura dessas bases, deve ser preservada a revisão de 50 itens utilizada nos resultados finais, com identificação das alterações por ID.
-
-## Versão correspondente à monografia
-
-A versão documental 1.0.1 complementa os três quadros extraídos em 1 de novembro de 2026 com referências e ressalvas temporais de 2 de novembro. A versão 1.0.0 permanece no commit f3116ff39b716a605b89f9d5d9bae506c41dd634. A referência inserida no apêndice deve indicar a versão e o registro correspondente no histórico do repositório. Atualizações posteriores devem ser identificadas separadamente, permitindo consultar o material utilizado na monografia.
-
-O arquivo [SHA256SUMS.txt](SHA256SUMS.txt) registra os resumos digitais dos arquivos deste pacote para conferência de integridade.
+Os [25 procedimentos de reprodução](A4_procedimentos.md) e as [notas de alcance](alcance_cti.md) complementam a leitura. O arquivo SHA256SUMS.txt de cada diretório permite conferir a integridade dos arquivos ali relacionados.

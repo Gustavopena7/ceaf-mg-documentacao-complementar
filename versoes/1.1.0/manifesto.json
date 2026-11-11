@@ -1,0 +1,18 @@
+{
+  "versao": "1.1.0",
+  "data": "2026-11-11",
+  "base": {
+    "registros": 9585,
+    "sha256": "db8b8da2f20cd7c8f10f38f74c5bbfe07b380269f2a696158adc1817222edad0",
+    "identificador_drive": "1ct1EKHiLXfamQf9pa27w79w_GREBx_lF"
+  },
+  "cobertura": "Documentação e agregados. Os dados administrativos individualizados não são incluídos neste depósito público. O acesso aos arquivos externos depende das permissões do responsável. Os endereços Drive não são versões imutáveis; conferir o checksum da base.",
+  "limites": [
+    "Não há campo de UF de todas as plantas; UF de fornecedor ou titular não substitui localização fabril.",
+    "A contagem por unidade utiliza o primeiro bloco do Processo_SIAD; não reúne linhas distintas por semelhança de nome.",
+    "Rotas nacionais incluem Origem=NACIONAL ou MULTIPLANTA; percentuais somam valores observados sem imputar zero aos ausentes.",
+    "A memória por ano de referência reproduz empenhos atribuídos; não reconstrói empenhos e anulações brutos por exercício fiscal e medicamento.",
+    "A conciliação Belfar/Matozinhos e as atribuições retrospectivas conservam seus limites documentais.",
+    "B.1 resume a matriz documental preexistente: não constitui nova validação regulatória nem certifica vigência atual de todos os estabelecimentos."
+  ]
+}
