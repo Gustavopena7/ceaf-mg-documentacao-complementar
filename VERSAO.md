@@ -1,5 +1,9 @@
 # Histórico das versões
 
+## 1.1.4 · 23 de novembro de 2026
+
+Correção dos números SIAD de L003761 (10 → 9) e L003762 (12 → 10). Exclusão de C000535, item deserto sem proposta vencedora, com preservação do registro integral e da fonte no histórico da base. Atualização das contagens: 9.584 itens, 708 sem valor homologado e 731 em P5. Totais monetários, 4.741 processos, 178 fármacos e 289 itens P1/P2 preservados. A memória e os arquivos agregados reproduzem a base revisada.
+
 ## 1.1.3 · 22 de novembro de 2026
 
 O Quadro A.4 e a memória reúnem doze cenários. O S04 foi retirado porque o corte de 2025 aplicado às compras da Biolab era um parâmetro de simulação, sem ato citado que datasse naquele ano a autorização da embalagem das apresentações. Os demais cenários conservam seus códigos. A classificação P1+P2 continua baseada nas etapas registradas pela Anvisa para as apresentações adquiridas.

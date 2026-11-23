@@ -1,0 +1,46 @@
+{
+  "versao": "1.1.4",
+  "data": "2026-11-23",
+  "periodo_das_compras": "2014–2025",
+  "precos": "reais médios de 2025",
+  "base": {
+    "arquivo": "CEAF_MG_2014_2025_reduzido(1).xlsx",
+    "sha256": "b7c824ef12a127d558f179b04e56acc406eae1809529480ae9dba730a0797cea",
+    "itens": 9584,
+    "processos": 4741,
+    "farmacos": 178,
+    "itens_com_valor": 8876,
+    "valor_homologado_real_2025": "3907007679.55"
+  },
+  "correspondencia": {
+    "regra": "P1 + P2, segundo os dados sanitários da Anvisa",
+    "itens": 289,
+    "valor_homologado_real_2025": "14465028.55"
+  },
+  "carteira_programatica": {
+    "farmacos": 16,
+    "itens": 1498,
+    "farmacos_com_correspondencia": 4,
+    "itens_p1_p2": 40,
+    "valor_real_2025_p1_p2": "9747301.03",
+    "valor_real_2025_total": "1324441753.38"
+  },
+  "materiais_externos": {
+    "planilha_de_testes_sha256": "6c27754bd2531dc734fabb45a7e4e9da256f56f193b42fe19cd5fcf8aa8aeba4",
+    "matriz_dos_estabelecimentos_docx_sha256": "0afde1fcb36f4e15e568b1ee8cc40d64b2a803a3ae2ef5956e32b6f3a0520318"
+  },
+  "acesso": "O depósito reúne documentação, resultados agregados e a figura do Bulário. As bases administrativas por item seguem as permissões dos arquivos de origem.",
+  "testes_de_sensibilidade": {
+    "quadro": "A.4",
+    "quantidade": 12,
+    "arquivo": "testes_sensibilidade.csv"
+  },
+  "revisao_rastreabilidade": {
+    "data": "2026-11-23",
+    "numeros_de_item_corrigidos": 2,
+    "item_deserto_excluido": 1,
+    "itens_sem_valor": 708,
+    "p5": 731,
+    "totais_monetarios": "preservados"
+  }
+}
