@@ -1,19 +1,12 @@
-# Registro de versões
+# Histórico das versões
 
-## 1.0.1 — 2 de novembro de 2026
+## 1.1.2 · 22 de novembro de 2026
 
-- Incorporação de três referências: parecer FEAM 112/2024, relatório Biolab 2024/2025 e Resolução-RE Anvisa 1.187/2025.
-- Ressalva sobre vigência histórica no Quadro B.1 sem alteração das 37 linhas, 25 procedimentos do A.4 ou 49 evidências do D.2.
-- Atualização da lista de verificação de integridade e inclusão de nota específica.
-- Snapshot 1.0.0 preservado no commit `f3116ff39b716a605b89f9d5d9bae506c41dd634`.
+A memória adota a classificação final do Capítulo 7, incorpora o histórico sanitário por apresentação e publica a Figura A.3. Os arquivos de controle identificam a base utilizada, a composição da carteira e os treze cenários do Quadro A.4.
 
-## 1.0.0 — 1 de novembro de 2026
+## Edições arquivadas
 
-- Transcrição dos Quadros A.4, B.1 e D.2 em Markdown e JSON.
-- Preservação das notas, da legenda de validação funcional e das observações de conciliação do Apêndice B.
-- Inclusão dos critérios e limites do levantamento de CT&I e da lista de referências da monografia.
-- Conferência de 25 procedimentos, 37 estabelecimentos e 49 evidências.
-
-Repositório: https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar
-
-Esta versão reúne a documentação complementar dos Quadros A.4, B.1 e D.2. As bases quantitativas da pesquisa não integram este depósito. Não foi atribuído DOI a este conjunto.
+- [Versão 1.1.1 · 11 de novembro de 2026](https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar/tree/43cc2b098a6c16bf5b8bf4d9042f9d61f28b8cfe)
+- [Versão 1.1.0 · 11 de novembro de 2026](https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar/tree/6c4f96b7d5896b5b18e06bb00e7e678560d99447)
+- [Versão 1.0.1 · 2 de novembro de 2026](https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar/tree/73fc8c757be502a7ee831e38416d74fdfad1496d)
+- [Versão 1.0.0 · 1 de novembro de 2026](https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar/tree/f3116ff39b716a605b89f9d5d9bae506c41dd634)

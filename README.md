@@ -1,19 +1,13 @@
-# CEAF–MG: documentação complementar da monografia
+# CEAF–MG · Documentação complementar da monografia
 
-Documentação da pesquisa de Luiz Gustavo de Carvalho Pena, Administração Pública, Fundação João Pinheiro.
+Luiz Gustavo de Carvalho Pena · Administração Pública · Fundação João Pinheiro.
 
-**Versão atual: 1.1.1, de 11 de novembro de 2026.**
+**Versão 1.1.2, de 22 de novembro de 2026.**
 
-A [versão 1.1.1](versoes/1.1.1/LEIA_ME.md) acompanha a reorganização editorial do Apêndice A. Reúne a memória técnica por procedimento, a síntese dos 13 cenários de sensibilidade e a equivalência entre as remissões anteriores e atuais. Não altera a base de 9.585 itens, os fatores monetários ou os resultados calculados.
+A monografia examina a correspondência entre as compras de medicamentos da SES-MG e as etapas de fabricação autorizadas em Minas Gerais. O cruzamento dos itens adquiridos em 2014–2025 com os registros sanitários da Anvisa identificou 289 itens com fabricação integral ou parcial no estado. Na carteira programática, 40 itens de quatro fármacos atendem ao critério.
 
-Os [dados de documentação e agregados da versão 1.1.0](versoes/1.1.0/LEIA_ME.md) permanecem vigentes: matriz resumida de 37 estabelecimentos, catálogo de 49 evidências, chamadas autor-data, dicionário de arquivos, contagens por unidade e recorte nacional/multiplanta. O [manifesto](versoes/1.1.0/manifesto.json) identifica a base e delimita a cobertura do depósito. O [dicionário](versoes/1.1.0/dicionario_de_arquivos.csv) identifica os arquivos externos.
+[Guia e arquivos da versão 1.1.2](versoes/1.1.2/LEIA_ME.md) · [Memória técnica do Apêndice A](versoes/1.1.2/memoria_tecnica_apendice_a.md) · [Testes de sensibilidade](versoes/1.1.2/testes_sensibilidade.csv)
 
-O depósito público reúne documentação e agregados. A reprodução integral depende também de arquivos administrativos cujo acesso segue as permissões do responsável. A memória editorial não substitui os dados individualizados nem reconstrói registros fiscais brutos ausentes.
+A [Figura A.3](versoes/1.1.2/figura_a3_mesalazina_anvisa.png) apresenta os nove expedientes de bula da mesalazina recuperados em 2026. A seção [M05](versoes/1.1.2/memoria_tecnica_apendice_a.md#m05) descreve como as versões e os atos regulatórios situam no tempo cada etapa industrial. O depósito publica dados agregados e documentação metodológica. Os arquivos administrativos individualizados seguem as permissões do responsável.
 
-Para citar, utilize autor, título, versão 1.1.1 e o endereço identificado pelo commit efetivamente consultado. O arquivo CITATION.cff fornece os metadados. Não foi atribuído DOI.
-
-## Documentação anterior preservada
-
-A versão 1.1.0 permanece no [commit 6c4f96b](https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar/tree/6c4f96b7d5896b5b18e06bb00e7e678560d99447). Os arquivos da raiz A4_procedimentos, B1_estabelecimentos, D2_evidencias_cti, alcance_cti e referencias correspondem à versão 1.0.1, preservada no [commit 73fc8c7](https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar/tree/73fc8c757be502a7ee831e38416d74fdfad1496d).
-
-Os [25 procedimentos de reprodução](A4_procedimentos.md) e as [notas de alcance](alcance_cti.md) complementam a leitura. As datas de consulta não equivalem à vigência das operações nos anos das compras.
+[Histórico das versões](VERSAO.md) · [Referências da monografia](referencias.md) · [Informações para citação](CITATION.cff)

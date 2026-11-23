@@ -1,12 +1,3 @@
-# Versão 1.1.1 — organização editorial da reprodutibilidade
+# Edição histórica 1.1.1
 
-Data: 11 nov. 2026.
-
-Esta edição reorganiza a apresentação da monografia. Conserva integralmente os dados, as classificações, os fatores e os agregados da versão 1.1.0.
-
-- [Memória técnica](memoria_tecnica_apendice_a.md): M01 — conciliação; M02 — cobertura temporal; M03 — execução; M04 — carteira; M05 — rotas e sensibilidade; M06 — emprego; M07 — extração documental.
-- [Testes de sensibilidade](testes_sensibilidade.csv): cenários S01–S13 do novo Quadro A.4, transcritos dos resultados previamente documentados; não são novos cálculos.
-- [Remissões](mapa_remissoes.csv): equivalência das tabelas e dos destinos metodológicos.
-- [Dados e agregados preservados](../1.1.0/LEIA_ME.md): matriz B.1, catálogo D.2, dicionário, manifesto e controles de integridade.
-
-As memórias fazem referência às planilhas externas identificadas no dicionário. O depósito não contém integralmente os arquivos administrativos individualizados, os denominadores originais de rateio ou os registros fiscais brutos. O acesso segue as permissões do responsável.
+Os arquivos e as somas de verificação desta edição podem ser consultados no [registro original](https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar/tree/43cc2b098a6c16bf5b8bf4d9042f9d61f28b8cfe/versoes/1.1.1). Para reproduzir os resultados da monografia, consulte a [versão 1.1.2](../1.1.2/LEIA_ME.md).
