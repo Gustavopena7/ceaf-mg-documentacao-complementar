@@ -32,4 +32,4 @@
 | Série de compras até 2023 | Recalcular numerador e denominador com Ano_referencia entre 2014 e 2023, excluindo o ano dos três registros de glargina classificados em P2: R$ 2,46 por R$ 1.000. | Quadro A.4, S10 |
 | Domicílio fiscal nas importações | Manter exportações e excluir somente importações domiciliadas em Extrema e Varginha ao testar a cobertura dos SH4 3002/3004; cenário não altera o registro oficial nem identifica destino dos produtos. | Capítulo 8 e Apêndice C |
 
-Os 25 procedimentos estão reunidos em quatro grupos. Os códigos S01–S13 e os respectivos resultados encontram-se no Quadro A.4 da monografia e na versão 1.1.2 da memória técnica.
+Os 25 procedimentos estão reunidos em quatro grupos. Os doze cenários do Quadro A.4, com seus códigos e resultados, constam da versão 1.1.3 da memória técnica.

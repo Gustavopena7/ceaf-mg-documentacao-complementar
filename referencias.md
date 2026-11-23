@@ -388,7 +388,7 @@ PARANHOS, Julia; HASENCLEVER, Lia; PERIN, Fernanda S. The Brazilian pharmaceutic
 
 PARANHOS, Julia; MERCADANTE, Eduardo; HASENCLEVER, Lia. Os esforços inovativos das grandes empresas farmacêuticas no Brasil: o que mudou nas duas últimas décadas? Revista Brasileira de Inovação, Campinas, v. 19, e0200015, 2020. DOI: https://doi.org/10.20396/rbi.v19i0.8655780. Acesso: 02 out. 2026.
 
-PENA, Luiz Gustavo de Carvalho. CEAF–MG: documentação complementar da monografia. Versão 1.1.2. Belo Horizonte, 2026. Disponível em: https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar. Acesso em: 22 nov. 2026.
+PENA, Luiz Gustavo de Carvalho. CEAF–MG: documentação complementar da monografia. Versão 1.1.3. Belo Horizonte, 2026. Disponível em: https://github.com/Gustavopena7/ceaf-mg-documentacao-complementar. Acesso em: 22 nov. 2026.
 
 PIETROBELLI, Carlo; RABELLOTTI, Roberta. Global value chains meet innovation systems: are there learning opportunities for developing countries? World Development, v. 39, n. 7, p. 1261-1269, 2011. DOI: https://doi.org/10.1016/j.worlddev.2010.05.013. Acesso: 02 out. 2026.
 

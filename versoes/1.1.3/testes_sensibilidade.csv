@@ -1,0 +1,13 @@
+Cenário,Regra aplicada,Resultado,Seção da memória
+S01 · Repetições cadastrais,Retenção hipotética de uma ocorrência em cada um dos 65 grupos; numerador P1+P2 constante.,"97 linhas e R$ 3,69 mi retirados; P1+P2: 0,3706%.",M01
+S02 · Evidência herdada ou inferida,Excluir 509 registros; recalcular numerador e denominador (Tabela A.4).,"R$ 3,81 por R$ 1.000; os 13 itens P1+P2 retirados não têm valor observado.",M05
+S03 · RMS da apresentação,"Restringir ambos os termos à evidência no nível da apresentação: 7.397 itens, dos quais 258 P1+P2.","R$ 8,71 mi em P1+P2 sobre R$ 3.111,26 mi: R$ 2,80 por R$ 1.000.",M05
+S05 · Memória histórica da AFE,Usar a AFE mais antiga do grupo na cidade; imputar 31/12 do ano de referência quando falta a data da compra.,"Memória anterior a 16/11. A estimativa histórica foi de 173 itens, R$ 11,82 mi (0,30%).",M05
+S06 · Concentração em Biomm e Cimed,"Excluir do numerador Biomm–glargina; depois, também Cimed–atorvastatina. Denominador constante.","R$ 2,37 e R$ 1,60 por R$ 1.000, respectivamente.",M05
+S07 · Carteira e restante,"Excluir integralmente as compras de glargina; depois, também atorvastatina, recalculando os dois denominadores.","Razões de correspondência carteira/restante: 2,31 e 0,83.",M05
+S08 · Rotas inconclusivas (P5),Atribuição hipotética dos 732 itens P5 a etapas mineiras; denominador constante.,"R$ 15,63 por R$ 1.000.",M05
+S09 · Recorte exploratório de P4,"Simular a inclusão no numerador de 333 itens P4 (R$ 8,40 mi). Na Tabela 7.1, esses itens integram P4.","Aproximadamente 0,59%; cenário exploratório.",M05
+S10 · Recorte 2014–2023,Restringir numerador e denominador aos anos do recorte.,"R$ 2,46 por R$ 1.000.",M05
+S11 · Enquadramento administrativo,Excluir 77 registros programáticos com responsabilidade indeterminada; numerador preservado.,"R$ 9.747.301,03 sobre R$ 1.141.585.782,87: 0,8538%.",M04
+S12 · Períodos fiscais alternativos,"Comparar 2014–2019 com 2020–2025, nas séries fiscais a preços constantes.","CEAF: −19,30%; Função 10: +15,17%; razão CEAF/Função 10: −29,93%.",M03
+S13 · Recorte da centralização,"Oito fármacos; repetir sem quetiapina, cuja centralização alcançou apenas 300 mg. Usar o ano de referência das compras.","Reduções médias anuais: R$ 50,3 mi (44,9% da queda fiscal) e R$ 43,7 mi (39,0%).",M03
